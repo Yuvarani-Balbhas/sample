@@ -1,6 +1,6 @@
 
 <title>Login Page</title>
-HTML Login Page
+
 Username:	
 Password:	
 <script language="javascript"> function check(form) {
